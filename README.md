@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 🐦 Twitter: https://twitter.com/<br/>
 👨‍💼 LinkedIn: https://linkedin.com/in/LuisCorderoFalcon<br/>
 ✉️ Email: luiscorderof.developer@gmail.com<br/>
-💬 Ask me about ...<br/>
-🌱 I’m currently learning ...<br/>
+💬 Ask me about: Software Development, Delphi, Flutter, etc.<br/>
+🌱 I’m currently learning: Go, Rust, LowCode/Nocode.<br/>
