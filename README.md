@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Luis Cordero github estatus](https://github-readme-stats.vercel.app/api?username=LCorderF&show_icons=true&theme=nightowl)
+![Luis Cordero github estatus](https://github-readme-stats.vercel.app/api?username=LCorderF&show_icons=true&theme=nightowl)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCorderF&theme=nightowl&hide=html,css&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [ENG] Software developer, and a kind and a gentlemanly full-time nerd.<br/>
