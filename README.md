@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Self taught Full Stack Developer, aspiring functional programming polyglot, and full time nerd.
+[ENG] Software developer, and a kind and a gentlemanly full-time nerd.
+[ESP] Desarrollador de software, y un amable y caballeroso nerd a tiempo completo.
+[GER] Software-Entwickler und ein freundlicher und liebenswürdiger Vollzeit-Nerd.
 
 ![Luis Cordero github estatus](https://github-readme-stats.vercel.app/api?username=LCorderF&show_icons=true&theme=nightowl)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCorderF&theme=nightowl&hide=html,css&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
