@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br/>
 ## Follow Me
 🔗 Website: https://Grupo-LCF.org/<br/>
-📺 Youtube: https://www.youtube.com/c/<br/>
+📺 Youtube: https://www.youtube.com/<br/>
 🐦 Twitter: https://twitter.com/<br/>
 👨‍💼 LinkedIn: https://linkedin.com/in/LuisCorderoFalcon<br/>
 ✉️ Email: luiscorderof.developer@gmail.com<br/>
